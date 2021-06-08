@@ -1,3 +1,0 @@
-- NPSN (Nomor Pokok Sekolah Nasional)
-- Nama sekolah
-- Alamat sekolah
